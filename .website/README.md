@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - horror
+  - survival
 directors_cut: https://cat-shooter.vercel.app/
 video: https://youtu.be/VKJWRrND6bM
 post: https://github.com/dkozhukhar/cat-shooter/blob/main/POSTMORTEM.md
